@@ -4,7 +4,7 @@ Aplicacion web de e-commerce desarrollada con Django 6.0.
 Proyecto final de portafolio con flujo completo:
 catalogo, carrito, confirmacion de compra y administracion.
 
-Repositorio: https://github.com/KaladinNewStorm/ecommerce_jb
+Repositorio: https://github.com/Cristithofer/XAA-Storeeeee-Proyecto-Portafolio-Django
 
 ---
 
@@ -20,7 +20,7 @@ Instalacion
 
 1. Clonar el repositorio
 
-git clone https://github.com/KaladinNewStorm/ecommerce_jb.git
+git clone https://github.com/Cristithofer/XAA-Storeeeee-Proyecto-Portafolio-Django.git
 cd ecommerce_jb
 
 2. Crear y activar entorno virtual
