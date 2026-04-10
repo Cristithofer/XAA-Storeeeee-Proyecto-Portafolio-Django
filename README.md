@@ -21,7 +21,7 @@ Instalacion
 1. Clonar el repositorio
 
 git clone https://github.com/Cristithofer/XAA-Storeeeee-Proyecto-Portafolio-Django.git
-cd ecommerce_jb
+cd ecommerce_Pro_final
 
 2. Crear y activar entorno virtual
 
