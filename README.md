@@ -1,4 +1,4 @@
-# JB Store - E-Commerce Django
+# XAAA Storeeee - E-Commerce Django
 
 Aplicacion web de e-commerce desarrollada con Django 6.0.
 Proyecto final de portafolio con flujo completo:
